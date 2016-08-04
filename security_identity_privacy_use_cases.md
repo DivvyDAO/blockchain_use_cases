@@ -17,7 +17,7 @@ Erik Anderson, Bloomberg  https://www.linkedin.com/in/erikanderson
       - User has a matching private key used to create digital signatures to authorize movement of those assets.
       - Asset has no physical world connections. Its purely virtual.
     - Requirement
-      - Lost of the private key should not mean 401k investment is gone.
+      - Loss of the private key should not mean 401k investment is gone.
     - Story
       - User has a 401k investment thats purely invested in a virtual assets, such as a virtual currency.
       - That asset has no phlives on a DLT.
